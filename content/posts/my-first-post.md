@@ -1,7 +1,6 @@
 ---
 title: "In the beginning there was a condo on the beach"
 date: 2023-03-29T23:13:25-04:00
-draft: true
 ---
 
 In July of 2017 Carol and I sold our home of 14 years in Orange Park, FL and bought a condo on Jacksonville Beach in an iconic building with our daughter Sarah and our attention demanding hound Ginger. We lived ther for 5 years and in those 5 years our daughter moved out, and Ginger God bless her wonderful soul passed away, and the building we thought we would retire in was having some challenges. So here we are. We sold our condo on the beach and we are currently living with my in-laws who are the most wonderful people in the world. We leave tomorrow to start our traveling adventure in St. Pete Beach FL.
