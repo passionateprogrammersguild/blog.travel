@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'The Travel Adventures of Michael and Carol Mann'
+theme = 'ananke'
